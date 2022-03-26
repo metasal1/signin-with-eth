@@ -16,7 +16,7 @@ Once the project is set up locally, copy the `.env.example` file into `.env` and
 
 | Variable | Description | Website |
 |---|---|---|
-| NEXT_PUBLIC_NFT_CONTRACT_ADDRESS | Your NFT Collection contract address | [thirdweb](https://thirdweb.,com) |
+| NEXT_PUBLIC_NFT_CONTRACT_ADDRESS | Your NFT Collection contract address | [thirdweb](https://thirdweb.com) |
 
 # Usage
 To run it locally and make changes to it run:
